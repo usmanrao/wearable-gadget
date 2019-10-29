@@ -24,8 +24,8 @@ cache:
    
 script:
   - ls
-  - chmod +x hello.sh
-  - ./hello.sh
+  - chmod +x detect-heartbeats.sh
+  - ./detect-heartbeats.sh
   
 notifications:
   email:
