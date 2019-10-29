@@ -1,0 +1,3 @@
+echo "State: Kid is Sleeping";
+echo "Hearbeat: Normal";
+echo "Status: successful";
